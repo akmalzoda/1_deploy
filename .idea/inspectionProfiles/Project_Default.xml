@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W391" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.hideturtle" />
+          <option value="list.__getitem__" />
+          <option value="str.get_name" />
+          <option value="loyihA.science2" />
+          <option value="loyihA.science1" />
+          <option value="loyihA.science3" />
+          <option value="loyihA.rooms1" />
+          <option value="loyihA.rooms2" />
+          <option value="loyihA.sciences" />
+          <option value="loyihA.buildings" />
+          <option value="loyihA.pupils" />
+          <option value="loyihA.pupil2" />
+          <option value="loyihA.pupil3" />
+          <option value="loyihA.pupil1" />
+          <option value="loyihA.*" />
+          <option value="try_expt.MATH.create_date" />
+          <option value="bot.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
